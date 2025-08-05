@@ -1,0 +1,17 @@
+# IDE settings
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Pytest cache
+.pytest_cache/# created by virtualenv automatically
+*
